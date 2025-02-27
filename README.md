@@ -4,6 +4,8 @@
 # pushr
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/beanb2/pushr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/beanb2/pushr/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of pushr is to teach.
